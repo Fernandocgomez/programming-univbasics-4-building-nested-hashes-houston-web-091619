@@ -32,6 +32,7 @@ def monopoly_with_third_tier
   monopoly[:railroads][:names] = {}
   monopoly
   monopoly[:railroads][:names][][][][] = {}{}{}{}
+  monopoly
   
   
 end
