@@ -30,6 +30,7 @@ def monopoly_with_third_tier
       :four_pieces_owned=>200}
   monopoly
   monopoly[:railroads][:name] = {}
+  monopoly
 end
 
 def monopoly_with_fourth_tier
